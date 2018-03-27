@@ -1,0 +1,7 @@
+C:\Users\zubko_t\Desktop\Lab1_CS\Lab1_base64\Lab1_base64\bin\Debug\Lab1_base64.exe.config
+C:\Users\zubko_t\Desktop\Lab1_CS\Lab1_base64\Lab1_base64\bin\Debug\Lab1_base64.exe
+C:\Users\zubko_t\Desktop\Lab1_CS\Lab1_base64\Lab1_base64\bin\Debug\Lab1_base64.pdb
+C:\Users\zubko_t\Desktop\Lab1_CS\Lab1_base64\Lab1_base64\obj\Debug\Lab1_base64.csprojResolveAssemblyReference.cache
+C:\Users\zubko_t\Desktop\Lab1_CS\Lab1_base64\Lab1_base64\obj\Debug\Lab1_base64.csproj.CoreCompileInputs.cache
+C:\Users\zubko_t\Desktop\Lab1_CS\Lab1_base64\Lab1_base64\obj\Debug\Lab1_base64.exe
+C:\Users\zubko_t\Desktop\Lab1_CS\Lab1_base64\Lab1_base64\obj\Debug\Lab1_base64.pdb
