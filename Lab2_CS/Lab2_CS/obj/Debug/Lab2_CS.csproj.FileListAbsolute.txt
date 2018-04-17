@@ -1,0 +1,7 @@
+C:\Users\zubko_t\Desktop\Lab2_CS\Lab2_CS\bin\Debug\Lab2_CS.exe.config
+C:\Users\zubko_t\Desktop\Lab2_CS\Lab2_CS\bin\Debug\Lab2_CS.exe
+C:\Users\zubko_t\Desktop\Lab2_CS\Lab2_CS\bin\Debug\Lab2_CS.pdb
+C:\Users\zubko_t\Desktop\Lab2_CS\Lab2_CS\obj\Debug\Lab2_CS.csprojResolveAssemblyReference.cache
+C:\Users\zubko_t\Desktop\Lab2_CS\Lab2_CS\obj\Debug\Lab2_CS.csproj.CoreCompileInputs.cache
+C:\Users\zubko_t\Desktop\Lab2_CS\Lab2_CS\obj\Debug\Lab2_CS.exe
+C:\Users\zubko_t\Desktop\Lab2_CS\Lab2_CS\obj\Debug\Lab2_CS.pdb
